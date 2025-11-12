@@ -1,6 +1,7 @@
 ## Hey there, I’m a Front-End Developer
 <div>
   <img alt="developer man" width="200" height="auto" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"/>
+  <img alt="developer man" width="200" height="auto" src="https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/wp2742531.png?resize=800%2C600&ssl=1"/>
 </div>
 
 ## 🌐 Socials:
