@@ -1,6 +1,6 @@
 ## Hey there, I’m a Front-End Developer
-<div align="center">
-  <img alt="developer man" width="500" height="auto" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"/>
+<div>
+  <img alt="developer man" width="200" height="auto" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif"/>
 </div>
 
 ## 🌐 Socials:
